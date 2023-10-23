@@ -1,7 +1,15 @@
 # Bootcamp-Santander
- Desafio de projeto 1  - Criando um Relatório de Vendas Elegante com Power BI.
+# Descrição do desafio 1: Você irá criar um relatório mais elaborado com base na sample financials do Power BI. 
+
+1 - Botões de navegação que fornecem navegabilidade 
+2- Segmentadores utilizados e botões com imagem associado 
+3- Utilize os indicadores e botões para selecionar diferentes visuais sobre um mesmo assunto 
+4- Utilize os vídeos de passo a passo para criação dos elementos que compõem a primeira página do relatório: 
+5- Objetos que definem o layout do relatório 
+6-Gráficos (visuais) e os campos que os compõem 
+7-Botões para navegabilidade 
  
- Descrição do desafio módulo 3 – Processamento de Dados Simplificado com Power BI
+# Descrição do desafio 2 – Processamento de Dados Simplificado com Power BI
 
 1. Criação de uma instância na Azure para MySQL
 2. Criar o Banco de dados com base disponível no github
