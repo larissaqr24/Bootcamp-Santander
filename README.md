@@ -4,7 +4,7 @@
 1 - Botões de navegação que fornecem navegabilidade 
 2- Segmentadores utilizados e botões com imagem associado 
 3- Utilize os indicadores e botões para selecionar diferentes visuais sobre um mesmo assunto 
-4- Utilize os vídeos de passo a passo para criação dos elementos que compõem a primeira página do relatório: 
+4- Utilize os vídeos de passo a passo para criação dos elementos que compõem a primeira página do relatório
 5- Objetos que definem o layout do relatório 
 6-Gráficos (visuais) e os campos que os compõem 
 7-Botões para navegabilidade 
@@ -15,7 +15,7 @@
 2. Criar o Banco de dados com base disponível no github
 3. Integração do Power BI com MySQL no Azure
 4. Verificar problemas na base a fim de realizar a transformação dos dados
-5. 
+   
 Diretrizes para transformação dos dados:
 
 1. Verifique os cabeçalhos e tipos de dados
